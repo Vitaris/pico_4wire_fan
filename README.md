@@ -7,4 +7,4 @@ I had one from an old ATI HD5870, it's the 4 wire type and the speed is controll
 
 ## Fan in action
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g0dm33SzrXE/0.jpg)](https://www.youtube.com/watch?v=g0dm33SzrXE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g0dm33SzrXE/0.jpg)](https://youtu.be/o2Hh5fBVVac)
